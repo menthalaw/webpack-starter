@@ -1,0 +1,67 @@
+nav > header {
+    text-align: center;
+}
+
+nav > header img {
+    margin: 50px 0;
+}
+
+nav > header h2 {
+    font-family: 'Cubic';
+    font-size: 50px;
+    text-shadow: 0px 1px 2px black;
+}
+
+nav > header > div {
+    background-color: beige;
+    padding: 50px 0;
+}
+
+nav > header > section {
+    background-color: #f5dddd;
+    padding: 20px 0 30px;
+}
+
+nav > header h1 {
+    font-family: Love;
+    font-size: 80px;
+    font-weight: 600;
+    text-shadow: 2px 1px 2px black;
+    color: red;
+    margin: 10px 0;
+}
+
+nav > header h5 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav > header h4 {
+    font-size: 50px;
+}
+
+#stage {
+    background-color: #d5d5ff;
+    padding: 20px;
+    text-align: center;
+}
+
+#stage pre {
+    font-family: 'Double Bubble';
+    font-size: 20px;
+}
+
+.font-bromo {
+    font-family: 'Bromo';
+}
+
+.font-cutter {
+    font-family: 'Wood Cutter';
+}
+
+.font-tribal {
+    font-family: 'Tribal Box';
+}
+
+.font-banner {
+    font-family: 'Paper Banner';
+}

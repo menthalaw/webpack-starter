@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Bromo';
+    font-weight: 400;
+    src: url('./bromo/BROMO.otf');
+}
+
+@font-face {
+    font-family: 'Cubic';
+    font-weight: 400;
+    src: url('./cubic/cubic.ttf');
+}
+
+@font-face {
+    font-family: 'Double Bubble';
+    font-weight: 400;
+    src: url('./double_bubble/Double_Bubble_shadow.otf'),
+         url('./double_bubble/Double_Bubble_shadow_italic.otf');
+}
+
+@font-face {
+    font-family: 'Hazel Grace';
+    font-weight: 400;
+    src: url('./hazel_grace/hazel grace.ttf');
+}
+
+@font-face {
+    font-family: 'Love';
+    font-weight: 400;
+    src: url('./love_and_romance/Love And Romance.otf'),
+         url('./love_and_romance/Love And Romance Italic.otf');
+}
+
+@font-face {
+    font-family: 'Paper Banner';
+    font-weight: 400;
+    src: url('./paper_banner/Paper Banner-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Tribal Box';
+    font-weight: 400;
+    src: url('./the_tribal_box/The_Tribal_Box_demo-font-FFP.ttf');
+}
+
+@font-face {
+    font-family: 'Wizards Magic';
+    font-weight: 400;
+    src: url('./wizards_magic/Wizards\' Magic.ttf');
+}
+
+
+@font-face {
+    font-family: 'Wood Cutter';
+    font-weight: 400;
+    src: url('./woodcutter_tags_on_a_rope/Woodcutter Tags on a Rope.ttf');
+}
+
+
+
