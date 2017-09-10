@@ -1,6 +1,7 @@
 # webpack-starter
 
-### A boilerplate for frontend development using webpack
+### A boilerplate for frontend development using webpack.
+[View Demo.](https://boatman-seal-10240.netlify.com/)
 
 ## Install
 
